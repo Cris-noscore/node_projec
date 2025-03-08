@@ -7,12 +7,12 @@
         "strict": true ,
         "esModuleInterop": true,
         "experimentalDecorators": true,
-        "emitDecoratorMetadata": true,
+        "emitDecoratorMetadata": true
         // "paths": {
-        //     "@domain/*": ["domain/*"],
-        //     "@application/*": ["application/*"],
-        //     "@infrasctructure/*": ["infrasctructure/*"],
-        //     "@presentation/*": ["presentation/*"]
-        // }
+        //     //  "@domain/*": ["domain/*"],
+        //     //  "@application/*": ["application/*"],
+        //     //  "@infrasctructure/*": ["infrasctructure/*"],
+        //     //  "@presentation/*": ["presentation/*"]
+        //  }
     }
 }
